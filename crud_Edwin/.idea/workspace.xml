@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
@@ -121,6 +124,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jelBGRSmKUcLSKD5pFjpjp2N8o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -152,6 +156,7 @@
       <workItem from="1604755340560" duration="11432000" />
       <workItem from="1604842977455" duration="26730000" />
       <workItem from="1605131074725" duration="14746000" />
+      <workItem from="1605358444105" duration="1778000" />
     </task>
     <servers />
   </component>
